@@ -1,0 +1,3 @@
+1. fetch app from remote git
+2. app fetched from remote git usually is without "node_module" folder
+3. run command "npm install" (because what kind of modules needed are writen in package.json in the dependencies branch)
